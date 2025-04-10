@@ -10,7 +10,5 @@
       "src": "/(.*)",
       "dest": "server.js"
     }
-  ],
-  "output": "server"
+  ]
 }
-
